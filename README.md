@@ -2,7 +2,7 @@
 
 Welcome to **Technova**, a line-following robot that can detect crosswalks! Built on a **Jetson Nano** with an **OAK-D camera**, this robot follows lines on the ground and stops or moves carefully when it spots a crosswalk. It communicates with a **Raspberry Pi 4** via UDP to control motors. The code is written in Python, packed with image processing, PID control, and a dash of personality! 
 
-![Technova Robot](images/Technova_robot.jpg) 
+![Technova Robot](Images/Technova_robot.jpg) 
 *Technova in action, cruising and spotting crosswalks!*
 
 ## Features
